@@ -8,5 +8,4 @@
 #### Linux Shell Commands
 
 |  Command | Explanation  |
-|  Command | Explanation  |
-|mv        | move file or directory |
+
