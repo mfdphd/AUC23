@@ -10,3 +10,4 @@
 |  Command | Explanation  |
 |--| --|
 |  ls  | list files and directories  |
+| pwd | present working directory|
