@@ -7,6 +7,5 @@
 
 #### Linux Shell Commands
 
-|  Command | Explanation
-
-| ls I list files and directories |
+|  Command | Explanation  |
+|  Command | Explanation  |
