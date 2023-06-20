@@ -8,4 +8,5 @@
 #### Linux Shell Commands
 
 |  Command | Explanation  |
-|  Command | Explanation  |
+|--| --|
+|  ls  | list files and directories  |
